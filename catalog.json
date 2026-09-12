@@ -1,0 +1,30 @@
+{
+  "currency": "GBP",
+  "updated": "2026-09-12",
+  "products": [
+    {
+      "id": "personal-home-sourcing",
+      "name": "Personal Home Sourcing",
+      "category": "Services",
+      "status": "live",
+      "price": 9.99,
+      "price_label": "£9.99",
+      "description": "Tell us the home item you need, your budget, measurements and style. We return 3–5 checked UK-deliverable options within 24 hours once we have enough information to begin.",
+      "delivery_label": "Digital service · emailed within 24 hours",
+      "cta_label": "Start my search",
+      "cta_url": "/sourcing.html",
+      "badge": "LIVE NOW"
+    }
+  ],
+  "rules": {
+    "physical_product_statuses": ["checking", "approved", "paused"],
+    "buy_button_only_when": "approved",
+    "public_price_requires": [
+      "confirmed supplier price",
+      "confirmed delivery cost",
+      "confirmed retail price",
+      "confirmed stock route",
+      "returns/damage process checked"
+    ]
+  }
+}
