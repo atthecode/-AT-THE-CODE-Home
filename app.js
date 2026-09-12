@@ -1,4 +1,24 @@
 (() => {
+  const sourcingUrl = '/sourcing.html';
+
+  const heroCtaRow = document.querySelector('.hero .cta-row');
+  if (heroCtaRow && !document.querySelector('.sourcing-cta')) {
+    const sourcingCta = document.createElement('a');
+    sourcingCta.className = 'btn dark sourcing-cta';
+    sourcingCta.href = sourcingUrl;
+    sourcingCta.textContent = 'Personal sourcing — £9.99';
+    heroCtaRow.insertBefore(sourcingCta, heroCtaRow.firstChild);
+  }
+
+  const nav = document.querySelector('.links');
+  if (nav && !nav.querySelector('a[href="/sourcing.html"]')) {
+    const sourcingNav = document.createElement('a');
+    sourcingNav.href = sourcingUrl;
+    sourcingNav.textContent = 'Personal sourcing';
+    const navCta = nav.querySelector('.nav-cta');
+    nav.insertBefore(sourcingNav, navCta || null);
+  }
+
   const form = document.getElementById('launchForm');
   const msg = document.getElementById('msg');
   const button = document.getElementById('submitBtn');
