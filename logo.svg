@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 180" role="img" aria-labelledby="title desc">
+  <title id="title">AT THE CODE Home</title>
+  <desc id="desc">AT THE CODE Home logo with a gold roof mark.</desc>
+  <rect width="720" height="180" fill="none"/>
+  <g transform="translate(18 18)">
+    <path d="M42 70 L104 18 L166 70" fill="none" stroke="#b98a43" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M145 51 V24 H161 V65" fill="none" stroke="#b98a43" stroke-width="10" stroke-linecap="round"/>
+    <rect x="95" y="55" width="10" height="10" rx="1" fill="#b98a43"/>
+    <rect x="109" y="55" width="10" height="10" rx="1" fill="#b98a43"/>
+    <rect x="95" y="69" width="10" height="10" rx="1" fill="#b98a43"/>
+    <rect x="109" y="69" width="10" height="10" rx="1" fill="#b98a43"/>
+  </g>
+  <text x="205" y="78" fill="#23201d" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="800" letter-spacing="1">AT THE CODE</text>
+  <text x="207" y="132" fill="#a97836" font-family="Georgia, 'Times New Roman', serif" font-size="54" font-style="italic">Home</text>
+  <text x="350" y="132" fill="#6f685f" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="4">CURATED HOME</text>
+</svg>
