@@ -78,6 +78,72 @@ Status: Candidate for home-office department.
 Why: Broad UK direct-delivery operation and current independent review score around 4.4/5.
 Need before launch: reseller/drop-ship permission, trade margin, white-label delivery, returns and customer-service responsibility.
 
+### Horwood Homewares
+Categories: cookware, bakeware, utensils, tableware and kitchen accessories.
+Status: Strong kitchenware candidate, pending account fit.
+Why: UK kitchenware business established in 1896; owns established British brands and publishes structured trade support. Their 2026 trade content names Horwood as a dropship/wholesale partner for online retailers.
+Need before launch: confirm whether AT THE CODE Home can place single customer orders without holding stock, exact UK minimum order rules, direct-to-customer fulfilment, neutral packaging, stock feed and media rights.
+
+### Bathrooms and Showers Direct
+Categories: bathroom furniture, sanitaryware, showers, taps and bathroom accessories.
+Status: Strong retail/service candidate to approach for trade/dropship terms.
+Why: Current independent review profile is around 4.7/5 with roughly 4,000 reviews, giving much stronger customer-service evidence than many bathroom suppliers checked.
+Need before launch: formal reseller/dropship permission, trade margin, direct-to-customer fulfilment, damage/replacement SLA, returns, brand restrictions and stock feed.
+
+### Hem and Boo
+Categories: pet beds, toys and pet-home accessories.
+Status: Candidate for pet/home department.
+Why: UK-based wholesaler with a current independent review profile around 4.8/5 from roughly 80 reviews.
+Need before launch: confirm formal dropshipping, single-order fulfilment, neutral packaging, trade margin, stock feed and returns.
+
+## Alibaba — selective standout products only
+Alibaba is not the core fulfilment model. It is reserved for distinctive products where the fully landed UK cost remains attractive after freight, VAT/duty, returns risk and compliance.
+
+### Foshan Qiantong Furniture Co., Ltd.
+Categories: compressed sofas, recliners, modular seating.
+Status: Best Alibaba sofa candidate for quotation/testing.
+Why: Verified manufacturer; Alibaba supplier data shows about 4.7/5 across roughly 80–90 reviews, MOQ 1 on selected compressed-sofa listings, finished-product inspection and overseas warehousing capability. Official site also states MOQ from 1 piece.
+Need before launch: exact DDP-to-customer UK quote, Trade Assurance order, exact model specification, UK Furniture & Furnishings fire-safety documentation/permanent labelling, neutral packaging, damage/replacement terms, transit insurance, media rights and confirmation that single customer orders can be handled individually.
+Rule: no listing until total checkout/contract cost and delivery destination are fixed in writing.
+
+### Foshan Youheng Furniture Co., Ltd.
+Categories: garden sofas, outdoor seating and patio furniture.
+Status: Alibaba candidate to quote.
+Why: Verified supplier; current Alibaba profile shows around 5.0/5 from roughly 90 reviews, MOQ 1 on selected outdoor pieces, warranty/inspection support and strong reorder signals.
+Need before launch: UK DDP cost, delivery lead time, weather/material testing, warranty, replacement process and neutral direct fulfilment.
+
+### Ningbo Audu International Trade Co., Ltd.
+Categories: garden furniture/outdoor sets.
+Status: Alibaba candidate with caution.
+Why: Verified supplier with current 5.0/5 profile and MOQ 1 on several listings; supplier profile shows UKCA badges on some items.
+Need before launch: actual documents for exact products, DDP cost, delivery damage rate, returns/replacements, materials/weather testing and Trade Assurance terms.
+
+### Yangjiang Homedailys Houseware Co., Ltd.
+Categories: utensils, knife/kitchen sets and small homeware.
+Status: Alibaba kitchenware candidate for selected non-electrical items.
+Why: Verified supplier, around 4.8/5 from 80+ reviews, 9 years on platform, 95% on-time rate and selected low-MOQ products.
+Need before launch: food-contact/material documentation where relevant, exact MOQ per SKU, packaging, DDP or consolidated UK delivery and media rights.
+
+### Hunan Kitchen Master Co., Ltd.
+Categories: silicone kitchen utensils.
+Status: Product-level Alibaba candidate only.
+Why: Current Alibaba listing shows MOQ 1 on a kitchen-utensil set and 4.8/5 supplier rating.
+Need before launch: exact food-contact compliance documentation, packaging, landed cost and whether repeated single-unit orders are accepted.
+
+### Shenzhen Guang Disen Furniture
+Categories: sofas.
+Status: Hold / do not prioritise.
+Why: Longer Alibaba history, but visible rating/review depth is weaker than Qiantong and no reply has been received to the current supplier enquiry.
+Action: only reconsider if they provide materially better DDP terms, stronger compliance evidence and after-sales protection.
+
+### Hapton Rugs
+Status: Hold for dropshipping.
+Reason: Current supplier information indicates high MOQ on many models, so it does not fit the zero-stock single-order model despite otherwise positive supplier history.
+
+### Shenzhen Founder Lighting
+Status: Future private-label sourcing, not launch dropship supplier.
+Reason: Established manufacturer and relevant certification claims, but many current listings require multi-unit MOQ. Any electrical item would still require exact model-level UK compliance verification.
+
 ## Pilot-only / extra caution
 
 ### Beehive Furniture Wholesale
@@ -120,14 +186,27 @@ Reason: Review pattern does not meet AT THE CODE Home launch threshold.
 ### D&H Trade
 Reason: Very new company. Keep under observation until it has a longer operating and review history.
 
+### EFG Housewares
+Reason: Excellent established wholesaler and huge catalogue, but its own FAQ explicitly says it does NOT dropship orders to a third party/customer address. Useful only if AT THE CODE Home later holds/consolidates stock; not suitable for current zero-stock model.
+
+### Core Products
+Reason: Strong established supplier and Direct Home Delivery infrastructure, but retailer return/disposal responsibilities are not a clean fit for the current zero-stock/low-problem model.
+
 ## Departments still needing stronger suppliers
 - Major kitchen appliances / small electricals
-- Bathroom furniture and sanitaryware
-- Cleaning/laundry consumables
-- Kitchenware/tableware
+- Bathroom trade partner with confirmed dropshipping
+- Cleaning/laundry consumables with direct customer fulfilment
+- Home fragrance with safe/clear product documentation and dropshipping
 - Wall art and decorative accessories
-- Home fragrance
-- Pet/home accessories
+- Pet/home accessories with confirmed dropshipping
+
+## Import rule for Alibaba
+1. Prefer Trade Assurance suppliers and pay through Alibaba.com so order protections apply.
+2. Keep specifications, shipping terms and evidence inside Alibaba Message Center/order documents.
+3. Use DDP only when the exact named destination, freight, customs/tax treatment and any platform ancillary fees are shown in the final order/checkout. Do not assume the product screen price is landed cost.
+4. For bulky furniture, require a written damage/replacement process and clarify who pays return freight.
+5. Do not list upholstered furniture until UK fire-safety documentation and required permanent labelling are verified for the exact model/material.
+6. Do not list electrical products based only on marketplace badges; verify exact model-level UK conformity, plug, voltage, warranty and WEEE responsibilities.
 
 ## Launch principle
 AT THE CODE Home should behave as a curated department store, not an open marketplace. Fewer reliable suppliers are preferable to a huge catalogue with poor fulfilment.
